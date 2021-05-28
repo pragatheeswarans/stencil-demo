@@ -1,0 +1,12 @@
+@font-face {
+  font-display: swap;
+  font-family: 'roboto-black';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Roboto-Black'),
+    url('/assets/fonts/Roboto-Black.ttf') format('truetype');
+}
+
+* {
+  font-family: 'roboto-black';
+}
